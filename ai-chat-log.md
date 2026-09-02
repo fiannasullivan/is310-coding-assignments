@@ -1,0 +1,1 @@
+Used Claude(Anthropic) to help me download and config git, vs code, and github.
