@@ -1,0 +1,1 @@
+I entirely used Claude to help me make this maze, I had it help me explain the sample maze given to us so I could understand it and more accurately design my maze, I had it help explain the hidden file code to see why it made sense, and I had it proofread
