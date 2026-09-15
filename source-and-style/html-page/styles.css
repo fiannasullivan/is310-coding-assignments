@@ -21,3 +21,22 @@ header h1 {
     height: auto;
     border-radius: 8px;
 }
+main {
+  display:flex;
+  flex-wrap:wrap;
+  gap:20px;
+  justify-content:center;
+  max-width: 1000px;
+  margin: 30px auto;
+  text-align:center;
+  font-family: verdana, sans-serif;
+  font-size: 21px;
+  color:#1A1D40
+}
+body {
+  background-image:
+url(https://i.pinimg.com/736x/f3/df/0a/f3df0a90366fa5a1231fed5dfaaa555b.jpg);
+    background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
