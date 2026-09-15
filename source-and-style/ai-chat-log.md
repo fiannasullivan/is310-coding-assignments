@@ -1,0 +1,2 @@
+I asked Claude to inspect the website and tell me how it was built. I myself recognized html and css, but having another set of eyes to help me look through it is very helpful. 
+Claude gave me the ideas of it being a Next.js file.
