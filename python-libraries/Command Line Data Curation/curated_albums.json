@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Kind of Blue",
+        "artist": "Miles Davis",
+        "album_year": 1959,
+        "curator_note": "Built on scales instead of fast chord changes, which gave soloists more room to improvise."
+    },
+    {
+        "title": "A Love Supreme",
+        "artist": "John Coltrane",
+        "album_year": 1965,
+        "curator_note": "A four-part suite Coltrane framed as a personal statement of faith and gratitude."
+    },
+    {
+        "title": "Time Out",
+        "album_year": 1959,
+        "artist": "The David Brubeck Quartet",
+        "curator_note": "Experimented with unusual time signatures"
+    },
+    {
+        "title": "Ella and Louis",
+        "album_year": 1956,
+        "artist": "Ella Fitzgerald and Louis Armstrong",
+        "curator_note": "Two of the most influential voices in jazz pairing together to create a masterpiece."
+    }
+]

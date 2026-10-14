@@ -1,0 +1,1 @@
+I did not use AI for this assignment, only to understand the submission requirement of, "a sample data file produced by your script."
