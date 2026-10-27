@@ -1,0 +1,6 @@
+kdex,name,pokemon_url,generation,word_count,character_count,internal_link_count,unique_internal_link_count
+1,Bulbasaur,https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon),1,9534,53847,1767,863
+2,Ivysaur,https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon),1,6472,36302,1426,733
+3,Venusaur,https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon),1,9605,54409,2116,1055
+810,Grookey,https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon),8,2870,16284,782,394
+811,Thwackey,https://bulbapedia.bulbagarden.net/wiki/Thwackey_(Pok%C3%A9mon),8,2481,13944,680,325

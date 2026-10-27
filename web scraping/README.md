@@ -3,3 +3,5 @@ https://bulbapedia.bulbagarden.net/robots.txt
 It disallows special searches, disallows shipping, and the crawl delay is 5, so I will reflect that in my time.sleep.
 
 I am scraping for the documentation in the Pokemon wiki, and researchers may find it helpful to see whether some Pokemon are more popular than others.
+
+Reflection: From our table, we can see that generation 1 Pokemon generally have more word count than generation 8. Typically, the more words a Pokemon has, the more links they have. From my own experience, the Pokemon at the top of this list like Pikachu and Meowth are Pokemon pretty much everyone has heard of before. However, as I learned in Psychology, coorelation does not equal causation. Despite these Pokemon having more words than the other ones, although we can assume that Generation 1 is more popular than Generation 8, my original question was that older generations are more popular than newer ones. So, to conclude that, I would probably have to pull data from every generation, and even then that might still be inconclusive without just pulling people off the street to poll them myself. 

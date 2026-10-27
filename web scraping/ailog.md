@@ -1,0 +1,1 @@
+I used Claude to help me code for the specific web scraping I wanted to do, which is scrape for specific pokemon from specific generations.
