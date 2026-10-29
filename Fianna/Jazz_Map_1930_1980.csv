@@ -1,0 +1,52 @@
+id,name,decades,jazz_style,type,address,dates,associated_musicians
+1,Nick’s Tavern,1930s; 1940s; 1950s; 1960s,traditional/Dixieland,Venue/Studio,"140 7th Ave S, New York, NY 10014",1922-1963,"Eddie Condon, Pee Wee Russell, Bobby Hackett, Sidney Bechet, Wild Bill Davison"
+2,The Cinderella Club/The Zinc Bar,1930s; 1940s; 1950s; 1980s; 1990s; 2000s; 2010s; 2020s,unclear,Venue/Studio,"82 W 3rd St, New York, NY 10012",1930s-1950s,"Billie Holiday, Thelonious Monk, Mae West, Jack Fine, Victoria Spivey"
+3,Café Bohemia (formerly The Pied Piper),1940s; 1950s; 1960s; 2010s; 2020s,hard bop,Venue/Studio,"15 Barrow St, New York, NY 10014",1944 - 1949,"Charles Mingus, Art Blakey, Miles Davis, Teddy Charles, Oscar Pettiford, Cannonball Adderley"
+4,Eddie Condon’s,1940s; 1950s; 1960s,traditional/Dixieland,Venue/Studio,"47 W 3rd St, New York, NY 10012",1945-1961,"Eddie Condon, Pee Wee Russell, Bobby Hackett, Wild Bill Davison"
+5,Eddie Condon Residence,1940s; 1950s; 1960s; 1970s,traditional/Dixieland,Residence,"27 Washington Square N, New York, NY 10011",,
+6,Arthur’s Tavern,1950s; 1960s; 1970s; 1980s; 1990s; 2000s; 2010s; 2020s,bebop,Venue/Studio,"57 Grove St, New York, NY 10014",1937-present,"Charlie Parker, Roy Hargrove, The Chicagoans, The Grove Street Stompers, Al Bundy, Mable Godwin, Sweet Georgia Brown"
+7,Central Plaza,1950s; 1960s,unclear,Venue/Studio,"111 2nd Ave, New York, NY 10003",1949-1963,"Sidney Bechet, Pee Wee Russell, George Wettling, Hot Lips Page, Willie “The Lion” Smith, Frank Newton"
+8,Five Spot Café,1950s; 1960s,bebop,Venue/Studio,"5 Cooper Sq, New York, NY 10003","1956-1962, 1962-1967","Charles Mingus, Thelonious Monk, Randy Weston, Ornette Coleman, Cecil Taylor, Don Cherry, Charlie Haden, Billy Higgins, John Coltrane, Wilbur Ware, Shadow Wilson, George Russell, Eric Dolphy"
+9,Institute of Jazz/Home of Marshall Stearns,1950s; 1960s,unclear,Venue/Studio,"108 Waverly Pl, New York, NY 10011",1952-1966,
+10,Jazz Gallery (later Theater 80),1950s; 1960s,cool,Venue/Studio,"78-80 St Marks Pl, New York, NY 10003",1959-1964,Harry “Sweets” Edison
+11,The Sheridan Theatre,1950s; 1960s,cool,Venue/Studio,"200 W 12th St, New York, NY 10011",1921-1969,"Billie Holiday, the Modern Jazz Quartet, Charles Mingus, Randy Weston"
+12,Village Gate/Le Poisson Rouge,1950s; 1960s; 1970s; 1980s; 1990s,bebop,Venue/Studio,"158 Bleecker St, New York, NY 10012",1958-1993 (Le Poisson Rouge: 1994-present),"Duke Ellington, Miles Davis, Dizzy Gillespie, Charles Mingus, Dexter Gordon, Sonny Rollins, John Coltrane, Thelonious Monk"
+13,Village Vanguard,1950s; 1960s; 1970s; 1980s; 1990s; 2000s; 2010s; 2020s,bebop,Venue/Studio,"178 7th Ave S, New York, NY 10014","Established in 1935, became an exclusively jazz venue in 1957","Wayne Shorter, Sonny Rollins, Sidney Bechet, Una Mae Carlisle, Art Hodes, Mary Lou Williams, Roy Eldridge, Carmen McRae, Charles Mingus, Thelonious Monk, Stan Getz, Ben Webster, Mose Allison, Anita O’Day, Teddy Wilson, Miles Davis, Horace Silver, Chris Connor, Dizzy Gillespie, George Shearing, Johnny Griffin, Lambert Hendricks and Ross, Zoot Sims, Max Roach, Red Garland, Ahmad Jamal, Dinah Washington, Aretha Franklin, Nina Simone, Martial Solal, Count Basie"
+14,Webster Hall (Webster Hall Studios),1950s; 1960s,cool,Venue/Studio,"125 E 11th St, New York, NY 10003",1886-today (1953-1968),Stan Getz
+15,Bob Brookmeyer Residence,1950s; 1960s,cool,Residence,"306 W 4th St, New York, NY 10014",,
+16,David Amram Residence,1950s; 1960s; 1970s; 1980s; 1990s,bebop,Residence,"461 6th Ave, New York, NY 10011",,
+17,"Elvin Jones, Kenny Barron, Bill Barron, Booker Ervin, Park Frederick ""Pepper"" Adams, Bill Vishnu Wood, and Bobby Timmons Residence",1950s; 1960s,unclear,Residence,"314 E 6th St, New York, NY 10003",,
+18,Jackie McLean Residence,1950s; 1960s,hard bop,Residence,"484 E Houston St, New York, NY 10002",,
+19,"Lee Morgan, Albert ""Tootie"" Heath, Jimmy ""Spanky"" DeBrest, Reggie Workman, Philly Joe Jones, Ted Curson, and Bobby Timmons Residence",1950s; 1960s,unclear,Residence,"315 E 6th St, New York, NY 10003",,
+20,Boomer’s,1960s; 1970s,bebop,Venue/Studio,"340 Bleecker St, New York, NY 10014",1969-1977,"Art Farmer, Cedar Walton, Kenny Barron, Charles Mingus"
+21,Bradley’s,1960s; 1970s; 1980s; 1990s,free jazz/avant-garde,Venue/Studio,"70 University Pl, New York, NY 10003",1969-1996,"Cecil Taylor, Art Blakey, Tommy Flanagan"
+22,Café Au Go Go/Gaslight at the Au Go Go (later Gaslight Au Go Go),1960s; 1970s,unclear,Venue/Studio,"152 Bleecker St, New York, NY 10012",1964-1970,"Bill Evans, Stan Getz, Astrud Gilberto"
+23,Slugs’ Saloon/Slugs’ in the Far East,1960s; 1970s,free jazz/avant-garde,Venue/Studio,"242 E 3rd St, New York, NY 10009",1964-1972,"Lee Morgan, Sonny Rollins, Ornette Coleman, Sun Ra Arkestra, Albert Ayler Quintet, Art Blakey and the Jazz Messengers, Donald Byrd, Elvin Jones, McCoy Tyner, Jackie McLean"
+24,The East Village In/Jazzboat,1960s; 1970s,free jazz/avant-garde,Venue/Studio,"101 Avenue A, New York, NY 10009",late 1960s- late 1970s,"Booker Ervin, Art Blakey, Lee Morgan"
+25,"Albert ""Tootie"" Heath and Ted Curson Residence",1960s,hard bop,Residence,"140 E 7th St, New York, NY 10009",,
+26,Bill Dixon Residence,1960s,free jazz/avant-garde,Residence,"119 Bank St, New York, NY 10014",,
+27,"Bobby Timmons and Park Frederick ""Pepper"" Adams Residence",1960s,hard bop,Residence,"339 E 6th St, New York, NY 10003",,
+28,Carla Bley and Paul Bley Residence,1960s; 1970s,free jazz/avant-garde,Residence,"639 1/2 Hudson St, New York, NY 10014",,
+29,Charles Mingus Residence,1960s,free jazz/avant-garde,Residence,"5 Great Jones St, New York, NY 10012",,
+30,Dave Lambert Residence,1960s,bebop,Residence,"24 Cornelia St, New York, NY 10014",,
+31,George Barrow Residence,1960s,bebop,Residence,"61 Jane St, New York, NY 10014",,
+32,Howard Johnson Residence,1960s,unclear,Residence,"610 E 9th St, New York, NY 10009",,
+33,Jim Hall Residence,1960s; 1970s; 1980s; 1990s; 2000s,cool,Residence,"49 W 12th St, New York, NY 10011",,
+34,Jimmy Giuffre Residence,1960s,cool,Residence,"141 E 13th St, New York, NY 10003",,
+35,Chiaroscuro Records/Downtown Sound,1970s; 1980s,bebop,Venue/Studio,"173 Christopher St, New York, NY 10014",1970s-1980,"Earl Hines, Bobby Hackett, Teddy Wilson, Eddie Condon, Buck Clayton, Gene Krupa, Benny Carter, Mary Lou Williams, Gerry Mulligan, Joe Venuti, Jay McShann, Clark Terry, Cab Calloway, Flip Phillips, Louie Bellson, Milt Hinton, Dizzy Gillespie, Dorothy Donegan, Bob Wilber, Kenny Davern, Bucky Pizzarelli, Herb Ellis, Urbie Green, Nat Adderley, Buddy Tate, Al Grey, Lionel Hampton, Woody Herman, Joe Williams, Frank Wess, Frank Foster, Jimmy Heath, Terry Gibbs, Buddy DeFranco, Dick Hyman, Junior Mance, Phil Woods, Jon Bates, Scott Hamilton"
+36,Ladies’ Fort/Residence of Joe Lee Wilson,1970s,free jazz/avant-garde,Venue/Studio,"2 Bond St, New York, NY 10012",1973-1979,Joe Lee Wilson
+37,RPM Studios,1970s; 1980s; 1990s; 2000s,loft jazz,Venue/Studio,"10 E 12th St, New York, NY 10003",1976-2004,"Herbie Hancock, James “Blood” Ulmer, Cassandra Wilson"
+38,Seventh Avenue South,1970s; 1980s,loft jazz,Venue/Studio,"21 7th Ave S, New York, NY 10014",1977-1987,"Jaco Pastorius, Mike Stern, David Sanborn, Bill Frisell, Branford Marsalis, Wynton Marsalis, Chuck Loeb"
+39,Studio Rivbea/Residence of Sam Rivers,1970s,free jazz/avant-garde,Venue/Studio,"24 Bond St, New York, NY 10012",1970-1978,Sam Rivers
+40,Sweet Basil Jazz Club,1970s; 1980s; 1990s; 2000s,free jazz/avant-garde,Venue/Studio,"88 7th Ave S, New York, NY 10014",1974-2001,Gil Evans
+41,The Bottom Line,1970s; 1980s; 1990s; 2000s,free jazz/avant-garde,Venue/Studio,"15 W 4th St, New York, NY 10003",1974-2004,"Chico Hamilton, Yusef Lateef, Sonny Stitt, Grover Washington Jr., Gato Barbieri, Joe Farrell, George Benson, Miles Davis, Freddie Hubbard, Gary Burton, Bill Evans, Charles Mingus, Rahsaan Roland Kirk, Sun Ra and his Arkestra, Pharoah Sanders, Ramsey Lewis, Count Basie Orchestra, Gil Evans and his Orchestra, The Brecker Brothers, Jean-Luc Ponty, Stéphane Grappelli, Kenny Burrell, Ron Carter, Art Farmer, Grant Green, Ted Curson, Donald Byrd, Dexter Gordon, McCoy Tyner, Horace Silver, John McLaughlin, Sonny Rollins, Stan Getz, Clark Terry, Phil Woods, Art Blakey, Art Ensemble of Chicago, Jaco Pastorius, James ""Blood"" Ulmer"
+42,The Cookery,1970s; 1980s,unclear,Venue/Studio,"21 University Pl, New York, NY 10003",1970-1984,Mary Lou Williams
+43,Tin Palace,1970s,free jazz/avant-garde,Venue/Studio,"325 Bowery, New York, NY 10003",1973-1979,"David Murray, Henry Threadgill, James “Blood” Ulmer"
+44,Blossom Dearie Residence,1970s; 1980s; 1990s; 2000s,swing,Residence,"15 Sheridan Square, New York, NY 10014",,
+45,David Murray Residence,1970s,free jazz/avant-garde,Residence,"325 Bowery, New York, NY 10003",,
+46,Joe Muranyi Residence,1970s,traditional/Dixieland,Residence,"13 E 9th St, New York, NY 10003",,
+47,Junior Mance Residence,1970s; 1980s; 1990s,hard bop,Residence,"55 W 14th St, New York, NY 10011",,
+48,55 Bar,1980s; 1990s; 2000s; 2010s; 2020s,fusion,Venue/Studio,"55 Christopher St, New York, NY 10014",1919-2022,"Mike Stern, Leni Stern, Mike Moreno, Lage Lund"
+49,Lush Life,1980s,free jazz/avant-garde,Venue/Studio,"184 Thompson St, New York, NY 10012",1981-1985,
+50,Astrud Gilberto and Bob Wilber Residence,1980s,unclear,Residence,"49 E 12th St, New York, NY 10003",,
+51,Jaco Pastorius Residence,1980s,mixed,Residence,"8 Jones St, New York, NY 10014",,

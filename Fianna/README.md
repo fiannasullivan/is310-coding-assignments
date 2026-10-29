@@ -1,0 +1,2 @@
+The dataset I made is attempting to analyze the changes in jazz style in jazz clubs around Greenwich, NoHo, and the East Village from this interactive map:
+https://www.peoplesles.org/jazz-map-of-greenwich-village-the-east-village-and-noho/
