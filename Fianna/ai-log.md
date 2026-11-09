@@ -1,1 +1,0 @@
-I had claude help me input clubs from the interactive map, and help me get it into this folder. 

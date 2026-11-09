@@ -1,0 +1,1 @@
+I utilized Claude to help me repurpose the lesson code into what I wanted to achieve with the Harry Potter code. It helped me take the code from the lesson, and rewrite it, and even add some steps to help me find other necessary info.
